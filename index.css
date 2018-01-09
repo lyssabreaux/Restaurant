@@ -6,15 +6,6 @@ background-color:white;
 text-align: center;
 }
 
-h1 {
-	color:black;
-	text-align: center;
-}
-h2 {
-	color:black;
-	text-align: center;
-}
-
 /* Allows my html links to change color when mouse hovers over*/
 a:hover { 
     background-color: lightblue;
@@ -32,7 +23,7 @@ a:hover {
 /* how to create a different color when active*/
 a:link, a:visited {
     background-color: white;
-    color: white;
+    color: green;
     padding: 15px 25px;
     text-align: center; 
     text-decoration: none;
