@@ -19,7 +19,10 @@ a:hover {
 .menubuttons {
 	display: inline-block;
 }
-	
+
+.button {
+	display: inline-block;
+}
 #MyImages { 
 	margin: auto;
 }
