@@ -22,11 +22,10 @@ a:hover {
 
 #button {
 	display: inline-block;
-	/*
 	 border: 1px solid #333;
     	 box-shadow: 2px 4px 2px #444;
     	 padding: 2px 12px;
-	*/
+	
 }
 #MyImages { 
 	margin: auto;
