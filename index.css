@@ -19,6 +19,9 @@ a:hover {
 #content {
 	position: relative;
 }
+table, th, td {
+	border: 1px solid black;
+}
 .menuDiv
 {
 	position: absolute;
