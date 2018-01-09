@@ -22,9 +22,11 @@ a:hover {
 
 #button {
 	display: inline-block;
+	/*
 	 border: 1px solid #333;
     	 box-shadow: 2px 4px 2px #444;
-    	 padding: 2px 12px;	
+    	 padding: 2px 12px;
+	*/
 }
 #MyImages { 
 	margin: auto;
@@ -33,10 +35,12 @@ a:hover {
 a:link, a:visited {
     background-color: white;
     color: red;
+	/*
     padding: 15px 25px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
+	*/
 }
 
 a:hover, a:active {
