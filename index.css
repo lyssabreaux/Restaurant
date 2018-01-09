@@ -19,8 +19,7 @@ a:hover {
 .menuDiv
 {
 	display: block;
-	align: center;
-	margin:auto; 
+	margin:0 auto; 
 	padding:2px 4px 2px 4px;
 }
 .menubuttons {
