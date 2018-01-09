@@ -34,7 +34,9 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-color: blue;
+    border: 1px solid #333;
+    box-shadow: 2px 4px 2px #444;
+    padding: 2px 12px;	
 }
 img {
    padding:5px;
