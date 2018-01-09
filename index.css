@@ -16,14 +16,17 @@ a:hover {
 	display: block;
 	margin:auto; 
 }
-
+.menubuttons {
+	display: inline-block;
+}
+	
 #MyImages { 
 	margin: auto;
 }
 /* how to create a different color when active*/
 a:link, a:visited {
     background-color: white;
-    color: green;
+    color: red;
     padding: 15px 25px;
     text-align: center; 
     text-decoration: none;
