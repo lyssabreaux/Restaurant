@@ -16,6 +16,12 @@ a:hover {
 	display: block;
 	margin:auto; 
 }
+.menuDiv
+{
+	display: block;
+	margin:auto; 
+	padding:2px 4px 2px 4px;
+}
 .menubuttons {
 	//display: inline-block;
 }
