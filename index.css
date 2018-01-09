@@ -16,10 +16,13 @@ a:hover {
 	display: block;
 	margin:auto; 
 }
+#content {
+	position: relative;
+}
 .menuDiv
 {
-	/*position: absolute;
-	left: 50%;*/
+	position: absolute;
+	left: 50%;
 	-webkit-transform: translate(-50%, -50%);
 	-moz-transform: translate(-50%, -50%);
 	-o-transform: translate(-50%, -50%);
