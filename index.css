@@ -20,8 +20,24 @@ a:hover {
 	position: relative;
 }
 table, th, td {
-	border: 1px solid black;
+	border: 1px solid black;	
 }
+
+th { backgroundcolor: white; 
+	border-color: red;  
+	border-style: groove;
+    	border-width: 7px;
+	padding: 8px; 
+	font-size:110%; 
+} 
+
+td { backgroundcolor: white; 
+	border-color: red; 
+	border-style: groove; 
+	border width:7px;
+	font-size: 110%;	
+} 
+
 .menuDiv
 {
 	position: absolute;
