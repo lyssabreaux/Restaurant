@@ -20,7 +20,7 @@ a:hover {
 	position: relative;
 }
 table, th, td {
-	border: 1px solid black;	
+	border: 8px solid lightblue;	
 }
 
 th { backgroundcolor: white; 
