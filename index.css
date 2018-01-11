@@ -8,7 +8,7 @@ text-align: center;
 
 /* Allows my html links to change color when mouse hovers over*/
 a:hover { 
-    background-color: lightblue;
+    background-color: powderblue;
 }
 /* This centers all my text on a page */
 .Centerer
@@ -32,7 +32,7 @@ th { backgroundcolor: white;
 } 
 
 td { backgroundcolor: white; 
-	border-color: red; 
+	border-color: powderblue; 
 	border-style: groove; 
 	border width:7px;
 	font-size: 110%;	
