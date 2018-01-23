@@ -121,3 +121,18 @@ img {
     .col-11 {width: 92%;}
     .col-12 {width: 100%;}
 }
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-t-1 {width: 30%;}
+    .col-t-2 {width: 50%;}
+    .col-t-3 {width: 25%;}
+    .col-t-4 {width: 30%;}
+    .col-t-5 {width: 42%;}
+    .col-t-6 {width: 50%;}
+    .col-t-7 {width: 58%;}
+    .col-t-8 {width: 66%;}
+    .col-t-9 {width: 75%;}
+    .col-t-10 {width: 83%;}
+    .col-t-11 {width: 92%;}
+    .col-t-12 {width: 100%;}
+}
