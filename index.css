@@ -51,6 +51,7 @@ td { backgroundcolor: white;
 }
 .menubuttons {
 	//display: inline-block;
+	padding:30px;
 }
 
 #button {
