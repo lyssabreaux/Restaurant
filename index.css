@@ -42,7 +42,7 @@ td { backgroundcolor: white;
 .menuDiv
 {
 	float: left;
-	margin-left: 50%;
+	margin:auto;
 	padding:2px 4px 2px 4px;
 }
 .menubuttons {
